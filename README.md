@@ -1,7 +1,11 @@
 [![CircleCI](https://circleci.com/gh/edo92/AWS-ECS-Hosting-Pipeline.svg?style=shield)]()
+
 [![License](https://img.shields.io/badge/license-MIT-yellow?style=shield)](https://github.com/edo92/AWS-ECS-Hosting-Pipeline/blob/main/LICENSE)
+
 [![Version](https://img.shields.io/badge/version-v1.0.0-1abc9c?style=shield)](https://github.com/edo92/AWS-ECS-Hosting-Pipeline)
+
 [![Contribution](https://img.shields.io/badge/contributions-welcome-red.svg?style=shield)](https://github.com/edo92/AWS-ECS-Hosting-Pipeline)
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=shield)](#contributors)
 
 <br/>
